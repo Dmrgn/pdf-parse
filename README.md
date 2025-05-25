@@ -1,5 +1,7 @@
 # pdf-parse
 
+## forked to change testing behavior to work with bun-js: [issue#40](https://gitlab.com/autokent/pdf-parse/-/issues/40)
+
 **Pure javascript cross-platform module to extract texts from PDFs.**
 
 [![version](https://img.shields.io/npm/v/pdf-parse.svg)](https://www.npmjs.org/package/pdf-parse)
